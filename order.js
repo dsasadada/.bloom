@@ -147,20 +147,20 @@
             const text1 = new TextDisplayBuilder()
             .setContent(
                 `## Rules and Regulations
-<:Person:1493603873708052681> Respect
-Treat all members with kindness and professionalism. Harassment, discrimination, or any toxic behavior will not be tolerated.
+💰 Refund & Adjustments Policy
+Refunds are not typically offered once an order has been placed. However, exceptions may be considered in special situations where both the designer and client reach a mutual agreement. In some cases, account credits may be provided if approved by management and agreed upon by both parties. Delays in delivery do not automatically qualify for refunds unless they are due to exceptional or unavoidable circumstances.
 
-<:Megaphone:1493662511273349291> Focused Topics
-Keep discussions related to the design community. Use the correct channels to help keep everything organized and easy to navigate.
+📋 Order Requirements
+Clients are responsible for submitting all required details and information needed to complete their request. Missing or incomplete information may delay the design process or affect final results.
 
-<:robot:1493663562202222784> Safe Content Only
-Only share appropriate content for all audiences. No explicit, harmful, offensive material, or unsafe/suspicious links.
+📨 Communication Guidelines
+Please avoid excessive messages or repeated follow-ups regarding your order. Constant pressure or spamming the designer may result in the ticket being closed without a refund being issued.
 
-<:Thumbtack:1493662910340268264> Moderator Discretion
-Staff may take action when necessary to maintain a positive environment, even in cases not directly listed in the rules. Always use good judgment.
+✔️ Final Delivery Policy
+Once the completed product has been delivered and confirmed, a short review window of 5–7 business days applies. After this period, the order will be considered final and no refund requests will be accepted.
 
-<:Book:1493663248472346694> Discord Guidelines
-All members must follow Discord’s Terms of Service at all times to keep the server safe and compliant.`
+⏳ Production Timeline
+Work on orders will begin once all necessary details have been provided. Completion time varies depending on the designer’s schedule, workload, and order complexity.`
             )
             container1.addTextDisplayComponents(text1)
 
